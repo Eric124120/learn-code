@@ -7,3 +7,6 @@
 console.log(11111);
 console.log(222222);
 console.log(444444);
+console.log(11111222);
+console.log(222222333);
+console.log(33333333);
